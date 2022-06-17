@@ -1,0 +1,2 @@
+# DotNetCoreExtensionMethods
+Studyng Extendion Methods 
